@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\lexicon-web-dashboard.props" />
+</Project>
