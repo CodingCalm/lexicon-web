@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lexicon-web-dashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+585fab415b8d00cfd0a85e04ed13a17cbbb78856")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ebbe382061841e338875f3acd07354a546066f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("lexicon-web-dashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lexicon-web-dashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
